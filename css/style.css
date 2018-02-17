@@ -102,6 +102,9 @@ body {
 /* querys */
 
 @media only screen and (max-width: 768px) {
+  .navbar-default {
+    background-color:#222222;
+  } 
   .navbar-brand{
     float: initial;
   }
